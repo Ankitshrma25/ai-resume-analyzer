@@ -1,0 +1,453 @@
+[{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e54"
+  },
+  "itemName": "Rifle Scope",
+  "serialNumber": "ORD-001-2024",
+  "category": "ORDNANCE",
+  "section": "ORDNANCE",
+  "location": "localStore",
+  "stockLevel": 15,
+  "minStockLevel": 5,
+  "cost": 25000,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 14,
+  "calibrationSchedule": {
+    "$date": "2025-08-12T17:39:48.081Z"
+  },
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.087Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.090Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e57"
+  },
+  "itemName": "Ammunition Box",
+  "serialNumber": "ORD-002-2024",
+  "category": "ORDNANCE",
+  "section": "ORDNANCE",
+  "location": "localStore",
+  "stockLevel": 8,
+  "minStockLevel": 10,
+  "cost": 5000,
+  "unit": "boxes",
+  "conditionStatus": "Serviceable",
+  "leadTime": 7,
+  "expirationDate": {
+    "$date": "2025-10-11T17:39:48.081Z"
+  },
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.121Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.122Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e59"
+  },
+  "itemName": "Gun Cleaning Kit",
+  "serialNumber": "ORD-003-2024",
+  "category": "ORDNANCE",
+  "section": "ORDNANCE",
+  "location": "localStore",
+  "stockLevel": 25,
+  "minStockLevel": 8,
+  "cost": 1500,
+  "unit": "kits",
+  "conditionStatus": "Serviceable",
+  "leadTime": 5,
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.124Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.124Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e5b"
+  },
+  "itemName": "Engine Oil Filter",
+  "serialNumber": "DGEME-001-2024",
+  "category": "DGEME",
+  "section": "DGEME",
+  "location": "localStore",
+  "stockLevel": 12,
+  "minStockLevel": 6,
+  "cost": 800,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 10,
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.128Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e5d"
+  },
+  "itemName": "Brake Pads",
+  "serialNumber": "DGEME-002-2024",
+  "category": "DGEME",
+  "section": "DGEME",
+  "location": "localStore",
+  "stockLevel": 3,
+  "minStockLevel": 8,
+  "cost": 2500,
+  "unit": "sets",
+  "conditionStatus": "Serviceable",
+  "leadTime": 12,
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.131Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.132Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e5f"
+  },
+  "itemName": "Battery Pack",
+  "serialNumber": "DGEME-003-2024",
+  "category": "DGEME",
+  "section": "DGEME",
+  "location": "localStore",
+  "stockLevel": 18,
+  "minStockLevel": 5,
+  "cost": 3500,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 8,
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.138Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.139Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e61"
+  },
+  "itemName": "Multimeter",
+  "serialNumber": "PMSE-001-2024",
+  "category": "PMSE",
+  "section": "PMSE",
+  "location": "localStore",
+  "stockLevel": 6,
+  "minStockLevel": 4,
+  "cost": 12000,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 15,
+  "calibrationSchedule": {
+    "$date": "2025-08-27T17:39:48.081Z"
+  },
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.144Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e63"
+  },
+  "itemName": "Oscilloscope",
+  "serialNumber": "PMSE-002-2024",
+  "category": "PMSE",
+  "section": "PMSE",
+  "location": "localStore",
+  "stockLevel": 2,
+  "minStockLevel": 3,
+  "cost": 45000,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 20,
+  "calibrationSchedule": {
+    "$date": "2025-09-11T17:39:48.081Z"
+  },
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.149Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.150Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e65"
+  },
+  "itemName": "Signal Generator",
+  "serialNumber": "PMSE-003-2024",
+  "category": "PMSE",
+  "section": "PMSE",
+  "location": "localStore",
+  "stockLevel": 4,
+  "minStockLevel": 2,
+  "cost": 28000,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 18,
+  "calibrationSchedule": {
+    "$date": "2025-08-12T17:39:48.081Z"
+  },
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.153Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.154Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e67"
+  },
+  "itemName": "GPS Device",
+  "serialNumber": "TTG-001-2024",
+  "category": "TTG",
+  "section": "TTG",
+  "location": "localStore",
+  "stockLevel": 10,
+  "minStockLevel": 5,
+  "cost": 18000,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 12,
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.157Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.158Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e69"
+  },
+  "itemName": "Radio Transceiver",
+  "serialNumber": "TTG-002-2024",
+  "category": "TTG",
+  "section": "TTG",
+  "location": "localStore",
+  "stockLevel": 7,
+  "minStockLevel": 4,
+  "cost": 22000,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 14,
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.161Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e6b"
+  },
+  "itemName": "Satellite Phone",
+  "serialNumber": "TTG-003-2024",
+  "category": "TTG",
+  "section": "TTG",
+  "location": "localStore",
+  "stockLevel": 3,
+  "minStockLevel": 2,
+  "cost": 65000,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 25,
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.165Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e6d"
+  },
+  "itemName": "Advanced Rifle Scope",
+  "serialNumber": "ORD-004-2024",
+  "category": "ORDNANCE",
+  "section": "ORDNANCE",
+  "location": "wsgStore",
+  "stockLevel": 8,
+  "minStockLevel": 3,
+  "cost": 45000,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 21,
+  "calibrationSchedule": {
+    "$date": "2025-09-11T17:39:48.081Z"
+  },
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.168Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.168Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e6f"
+  },
+  "itemName": "High-Precision Multimeter",
+  "serialNumber": "PMSE-004-2024",
+  "category": "PMSE",
+  "section": "PMSE",
+  "location": "wsgStore",
+  "stockLevel": 4,
+  "minStockLevel": 2,
+  "cost": 35000,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 25,
+  "calibrationSchedule": {
+    "$date": "2025-10-11T17:39:48.081Z"
+  },
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.171Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.171Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e71"
+  },
+  "itemName": "Heavy Duty Engine Parts",
+  "serialNumber": "DGEME-004-2024",
+  "category": "DGEME",
+  "section": "DGEME",
+  "location": "wsgStore",
+  "stockLevel": 6,
+  "minStockLevel": 4,
+  "cost": 15000,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 18,
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.174Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6873ef64aa594eb4d7547e73"
+  },
+  "itemName": "Advanced Communication System",
+  "serialNumber": "TTG-004-2024",
+  "category": "TTG",
+  "section": "TTG",
+  "location": "wsgStore",
+  "stockLevel": 2,
+  "minStockLevel": 1,
+  "cost": 85000,
+  "unit": "pieces",
+  "conditionStatus": "Serviceable",
+  "leadTime": 30,
+  "isActive": true,
+  "dateReceived": {
+    "$date": "2025-07-13T17:39:48.177Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T17:39:48.177Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T17:39:48.177Z"
+  },
+  "__v": 0
+}]
